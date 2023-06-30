@@ -13,7 +13,7 @@ const Projects = () => {
           <div class="card-body">
             <h3 class="card-title text-warning">URL Shortener App</h3>
             <p class="card-text">
-              You can shorten long url in this apge for free. You just have to create a account in it.
+              You can shorten long url in this page for free. You just have to create a account in it.
             </p>
             <div className="btn-row ">
               <a href="https://url-shortener-eight-sigma.vercel.app/" class="btn btn-success mb-3" target="_blank" rel="noreferrer">
