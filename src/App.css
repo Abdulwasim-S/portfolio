@@ -42,6 +42,9 @@ html {
   justify-content: space-evenly;
   animation: 10s slider infinite linear;
 }
+.logo-img{
+  margin-right: 25px;
+}
 .slider-track{
   display: flex;
   overflow: hidden;
@@ -137,6 +140,9 @@ html {
     font-size: 25px;
     text-align: center;
     text-shadow: 5px 5px black;
+  }
+  .logo-img{
+    margin-right:0;
   }
   
 }

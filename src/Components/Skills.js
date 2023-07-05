@@ -16,7 +16,6 @@ const Skills = () => {
               <img src='https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png' alt='antd-img' className='logo-img p-3' />
               <img src='https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png' alt='nodejs-img' className='logo-img ' />
               <img src='https://img.icons8.com/?size=512&id=74402&format=png' alt='mongodb-img' className='logo-img ' />
-              <img src='https://img.icons8.com/?size=512&id=33039&format=png' alt='aws-img' className='logo-img ' />
               <img src='https://pngimg.com/uploads/mysql/mysql_PNG11.png' alt='mysql-img' className='logo-img ' />
               <img src='https://img.icons8.com/?size=512&id=GPfHz0SM85FX&format=png' alt='java-img' className='logo-img ' />
           </div>
@@ -31,7 +30,6 @@ const Skills = () => {
               <img src='https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png' alt='antd-img' className='logo-img p-3' />
               <img src='https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png' alt='nodejs-img' className='logo-img ' />
               <img src='https://img.icons8.com/?size=512&id=74402&format=png' alt='mongodb-img' className='logo-img ' />
-              <img src='https://img.icons8.com/?size=512&id=33039&format=png' alt='aws-img' className='logo-img ' />
               <img src='https://pngimg.com/uploads/mysql/mysql_PNG11.png' alt='mysql-img' className='logo-img ' />
               <img src='https://img.icons8.com/?size=512&id=GPfHz0SM85FX&format=png' alt='java-img' className='logo-img ' />
           </div>
