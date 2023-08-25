@@ -11,9 +11,9 @@ const Projects = () => {
           <img src="https://drive.google.com/uc?export=view&id=1hjUVjf3T4Ut66E6X-eFYpLTrwYufrnHl" class="card-img-top" alt="urlshort" />
         </div>  
           <div class="card-body">
-            <h3 class="card-title text-warning">Job Searching App</h3>
+            <h3 class="card-title text-warning">React Markdown App</h3>
             <p class="card-text">
-              You can hire and get hired by this page for free. You just have to login in it.
+              You can view and save React Markdown in this page.
             </p>
             <div className="btn-row ">
               <a href="https://capstone-frontend-abdulwasim-s.vercel.app/" class="btn btn-success mb-3" target="_blank" rel="noreferrer">
