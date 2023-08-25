@@ -43,7 +43,7 @@ const About = () => {
               I'm an hardworking smart worker and always seek to achieve my best
               version.
             </p>
-            <a className="text-decoration-none" href="https://drive.google.com/file/d/1yx2p-gFB2IVc3zGtXpJ3CaBxptyzH88j/view?usp=sharing" target="_blank">Click here for my resume</a>
+            <a className="text-decoration-none" href="https://drive.google.com/file/d/1cZmTQ0AupLv3-tqmxWFmOHEXWzafrKxF/view?usp=sharing" rel="noreferrer" target="_blank">Click here for my resume</a>
             </div>
           </div>
         </div>

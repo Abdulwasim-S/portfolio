@@ -15,6 +15,7 @@ function NavBarComp() {
             <Nav.Link className='active text-light mx-3' href="#skills">Skills</Nav.Link>
             <Nav.Link className='active text-light mx-3' href="#projects">Projects</Nav.Link>
             <Nav.Link className='active text-light mx-3' href="#contact">Contact</Nav.Link>
+            <Nav.Link className='active text-light mx-3' href="https://drive.google.com/file/d/1cZmTQ0AupLv3-tqmxWFmOHEXWzafrKxF/view?usp=sharing">Resume</Nav.Link>
             <Nav.Link className='active text-light mx-3' href="https://github.com/Abdulwasim-S" target='_blank'><i class="fa-brands fa-github fa-xl"/> GitHub</Nav.Link>
           </Nav>
         </Navbar.Collapse>
