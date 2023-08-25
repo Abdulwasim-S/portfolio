@@ -124,7 +124,7 @@ const Contact = () => {
           </a>
         </div>
       </div>
-      <footer className="pt-3 pb-2 mt-5 bg-dark">by Abdulwasim S</footer>
+      <footer className="pt-5 pb-5 mt-5 bg-dark">©️ Abdulwasim S 2023</footer>
     </div>
   );
 };
