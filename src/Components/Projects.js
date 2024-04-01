@@ -14,7 +14,7 @@ const Projects = () => {
           <div class="card bg-dark">
             <div className="card-img">
               <img
-                src="https://drive.google.com/uc?export=view&id=1bJFa9i7wgWIOObpZLWwQUHaahp7-wEw9"
+                src="https://drive.google.com/thumbnail?export=view&id=1bJFa9i7wgWIOObpZLWwQUHaahp7-wEw9&sz=w10000"
                 class="card-img-top"
                 alt="urlshort"
               />
@@ -60,7 +60,7 @@ const Projects = () => {
           <div class="card bg-dark">
             <div className="card-img">
               <img
-                src="https://drive.google.com/uc?export=view&id=1hjUVjf3T4Ut66E6X-eFYpLTrwYufrnHl"
+                src="https://drive.google.com/thumbnail?export=view&id=1hjUVjf3T4Ut66E6X-eFYpLTrwYufrnHl&sz=w10000"
                 class="card-img-top"
                 alt="urlshort"
               />
@@ -103,7 +103,7 @@ const Projects = () => {
           <div class="card bg-dark">
             <div className="card-img">
               <img
-                src="https://drive.google.com/uc?export=view&id=1LXqQVey9gxB0esy2rQkTNVHXmtlVcq0y"
+                src="https://drive.google.com/thumbnail?export=view&id=1LXqQVey9gxB0esy2rQkTNVHXmtlVcq0y&sz=w10000"
                 class="card-img-top"
                 alt="urlshort"
               />
@@ -147,7 +147,7 @@ const Projects = () => {
           <div class="card bg-dark">
             <div className="card-img">
               <img
-                src="https://drive.google.com/uc?export=view&id=14iiABFw0pOegc_uYAHoq2OjywUfHPIIf"
+                src="https://drive.google.com/thumbnail?export=view&id=14iiABFw0pOegc_uYAHoq2OjywUfHPIIf&sz=w10000"
                 class="card-img-top"
                 alt="renten"
               />
@@ -190,7 +190,7 @@ const Projects = () => {
           <div class="card bg-dark">
             <div className="card-img">
               <img
-                src="https://drive.google.com/uc?export=view&id=1JPPRawj1Lm3i59vEFpNUid1CrvkAqwQC"
+                src="https://drive.google.com/thumbnail?export=view&id=1JPPRawj1Lm3i59vEFpNUid1CrvkAqwQC&sz=w10000"
                 class="card-img-top"
                 alt="brewery"
               />
@@ -234,7 +234,7 @@ const Projects = () => {
           <div class="card bg-dark">
             <div className="card-img">
               <img
-                src="https://drive.google.com/uc?export=view&id=1v9IyfHO0QTrNOpMyQ30T4frdExTTXewo"
+                src="https://drive.google.com/thumbnail?export=view&id=1v9IyfHO0QTrNOpMyQ30T4frdExTTXewo&sz=w10000"
                 class="card-img-top"
                 alt="urlshort"
               />

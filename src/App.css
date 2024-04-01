@@ -29,7 +29,7 @@ html {
   font-weight: 200;
 }
 .first-page{
-  background-image: url("https://drive.google.com/uc?export=view&id=1UrT9RVqQMHnbQiogyBLf_9yoRcYQCPoz");
+  background-image: url("https://drive.google.com/thumbnail?export=view&id=1UrT9RVqQMHnbQiogyBLf_9yoRcYQCPoz&sz=w10000");
   background-repeat: no-repeat;
   background-size: cover;
   backdrop-filter: blur(5px);
@@ -106,7 +106,7 @@ html {
 
 @media only screen and (max-width:700px) {
   .first-page{
-    background-image: url("https://drive.google.com/uc?export=view&id=1o1-nW4OA-tL_7TizyTNA5XA03tgNnlr5");
+    background-image: url("https://drive.google.com/thumbnail?export=view&id=1o1-nW4OA-tL_7TizyTNA5XA03tgNnlr5&sz=w10000");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;

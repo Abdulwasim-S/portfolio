@@ -16,7 +16,7 @@ const ImagePage = () => {
         <div className="col-md-4">
           <img
             className="profile-pic"
-            src="https://drive.google.com/uc?export=view&id=1egyFxCgosf-mH0WG-kqNksusOQOOvhM_"
+            src="https://drive.google.com/thumbnail?export=view&id=1egyFxCgosf-mH0WG-kqNksusOQOOvhM_&sz=w10000"
             alt="profile"
           />
         </div>
